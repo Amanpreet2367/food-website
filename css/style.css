@@ -4,18 +4,24 @@
     background-color: #363636;
     height: 32px;
 }
-.head-area-content
+.main-container
 {
     width: 80%;
+    margin: 0 10%;
+    height: auto;
+    
+
+}
+.head-area-content
+{
    
     height: 32px;
-    margin: 0 10%;
+    
 
 }
 .phone-icon
 {
     width: 15%;
-    height: 32px;
    
     float: left;
 }
@@ -36,9 +42,6 @@
 }
 .profile
 {
-    width: 26%;
-    height: 32px;
-    
     float: right;
 }
 .acoount-img
@@ -52,8 +55,7 @@
 .kart
 {
     width: 30%;
-    
-    height: 32px;
+  
     float: left;
     margin-left: 7px;
 }
@@ -88,12 +90,65 @@
     padding: 13px 5px;
     height: 6px;
 }
+.menu
+{
+    width: 100%;
+   
+    
+    height: 100px;
+}
+.menu-bar
+{
+   
+    height: 100px;
+    width: 80%;
+    margin: 0 10%;
+   
+}
+.logo
+{
+  
+    float: left;
 
-
-
-
-
-
+}
+.logo img
+{
+    padding: 17px 0px;
+}
+.menu-item
+{
+    width: 58%;
+    height: 100px;
+    
+    float: left;
+}
+.menu-item li
+{
+    display: inline-block;
+   
+    padding: 20px 19px;
+    font-size: 21px;
+    color: black;
+}
+.search-bar
+{
+    width: 15%;
+    background-color: white;
+    float: right;
+    height: 42px;
+   
+    margin-top: 26px;
+    border: 2px solid black;
+}
+.search-bar p 
+{
+    float: left;
+    padding: 0px 6%;
+}
+.search-bar img
+{
+    float: right;
+}
 
 
 
