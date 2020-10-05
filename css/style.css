@@ -102,7 +102,7 @@
    
     height: 100px;
     width: 80%;
-    margin: 0 10%;
+    margin: auto
    
 }
 .logo
@@ -126,8 +126,8 @@
 {
     display: inline-block;
    
-    padding: 20px 19px;
-    font-size: 21px;
+    padding: 23px 19px;
+    font-size: 19px;
     color: black;
 }
 .search-bar
@@ -150,12 +150,91 @@
     float: right;
 }
 
+.search-area
+{
+    width: 100%;
+    background-color: #363636;
+    height: 125px;
+}
+.search-area-content
+{
+    width: 80%;
+    margin: auto;
+    height: 125px;
+    
+}
+.location
+{
+    width: 28%;
+    height: 125px;
 
+    float: left;
+    position: relative;
+}
+.dish-content
+{
+    position: absolute;
+   
+    width: 100%;
+   
+    line-height: 0;
+    padding: 26px 0
+}
+.dish-content p 
+{
+    padding: 0px 16px;
+    color: white;
+}
+.textbox
+{
+    width: 92%;
+    height: 39px;
+    background-color: white;
+    border-radius: 3%;
+    margin-left: 10px;
+    position: relative;
+}
+#sec
+{
+    color: black;
+}
+.textbox span
+{
+    position: absolute;
+    top: 46%;
+    left: 5%;
+    font-size: 19px;
+    color: #aeaeae;
+}
 
+.different
+{
+    width: 3%;
+    height: 125px;
+    
+    float: left;
+}
+.different p 
+{
+    font-size: 29px;
+    color: white;
+    padding: 26px 3px;
+}
+.search-btn
+{
+   
+    height: 125px;
+   
+    float: left;
+    position: relative;
 
-
-
-
+}
+.search-btn img
+{
+    position: absolute;
+    top: 45%;
+    left: 10%;
+}
 
 
 
