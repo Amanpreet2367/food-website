@@ -390,6 +390,208 @@
     padding: 0 17px;
     font-size: 20px;
 }
+.text-boxes3
+{
+   
+    height: 33px;
+    background-color: black;
+    width: 254px;
+    position: absolute;
+    top: 75%;
+    opacity: 0.7;
+    left: 812px;
+   
+    border-radius: 10%;  
+}
+.text-boxes3 p 
+{
+    COLOR: WHITE;
+    position: absolute;
+    top: -14px;
+    font-weight: bold;
+   
+    padding: 0 17px;
+    font-size: 20px;
+}
+.text-boxes4
+{
+    
+    height: 33px;
+    background-color: black;
+    width: 254px;
+    position: absolute;
+    top: 76%;
+    opacity: 0.7;
+    left: 6px;
+   
+    border-radius: 10%;  
+}
+.text-boxes4 p 
+{
+    COLOR: WHITE;
+    position: absolute;
+    top: -14px;
+    font-weight: bold;
+   
+    padding: 0 17px;
+    font-size: 20px; 
+}
+.text-boxes5
+
+{
+    height: 33px;
+    background-color: black;
+    width: 254px;
+    position: absolute;
+    top: 75%;
+    opacity: 0.7;
+    left: 274px;
+   
+    border-radius: 10%;  
+}
+.text-boxes5 p
+{
+    COLOR: WHITE;
+    position: absolute;
+    top: -14px;
+    font-weight: bold;
+   
+    padding: 0 17px;
+    font-size: 20px;
+}
+.text-boxes6
+{
+    
+    height: 33px;
+    background-color: black;
+    width: 254px;
+    position: absolute;
+    top: 75%;
+    opacity: 0.7;
+    left: 812px;
+   
+    border-radius: 10%;
+}
+.text-boxes6 p
+{
+    COLOR: WHITE;
+    position: absolute;
+    top: -14px;
+    font-weight: bold;
+   
+    padding: 0 17px;
+    font-size: 20px;
+}
+.text-boxes7
+{
+    height: 33px;
+    background-color: black;
+    width: 254px;
+    position: absolute;
+    top: 75%;
+    opacity: 0.7;
+    left: 544px;
+   
+    border-radius: 10%; 
+}
+.text-boxes7 p
+{
+    COLOR: WHITE;
+    position: absolute;
+    top: -14px;
+    font-weight: bold;
+   
+    padding: 0 17px;
+    font-size: 20px;
+}
+.text-boxes8
+{
+    height: 33px;
+    background-color: black;
+    width: 254px;
+    position: absolute;
+    top: 76%;
+    opacity: 0.7;
+    left: 6px;
+   
+    border-radius: 10%;  
+}
+.text-boxes8 p
+{
+    COLOR: WHITE;
+    position: absolute;
+    top: -14px;
+    font-weight: bold;
+   
+    padding: 0 17px;
+    font-size: 20px; 
+}
+.text-boxes9
+{
+    height: 33px;
+    background-color: black;
+    width: 254px;
+    position: absolute;
+    top: 75%;
+    opacity: 0.7;
+    left: 274px;
+   
+    border-radius: 10%;  
+}
+.text-boxes9 p
+{
+    COLOR: WHITE;
+    position: absolute;
+    top: -14px;
+    font-weight: bold;
+   
+    padding: 0 17px;
+    font-size: 20px;  
+}
+.text-boxes10
+{
+    height: 33px;
+    background-color: black;
+    width: 254px;
+    position: absolute;
+    top: 75%;
+    opacity: 0.7;
+    left: 544px;
+   
+    border-radius: 10%; 
+}
+.text-boxes10 p
+{
+    COLOR: WHITE;
+    position: absolute;
+    top: -14px;
+    font-weight: bold;
+   
+    padding: 0 17px;
+    font-size: 20px;  
+}
+.text-boxes11
+{
+    height: 33px;
+    background-color: black;
+    width: 254px;
+    position: absolute;
+    top: 75%;
+    opacity: 0.7;
+    left: 812px;
+   
+    border-radius: 10%;
+}
+.text-boxes11 P 
+{
+    COLOR: WHITE;
+    position: absolute;
+    top: -14px;
+    font-weight: bold;
+   
+    padding: 0 17px;
+    font-size: 20px;  
+}
 .photos img
 {
     width: 255px;
