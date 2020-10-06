@@ -299,14 +299,124 @@
 }
 .dishes
 {
-    width: 100%;
-    
+    position: relative;
 }
-.dishes-container
+.dishes-items
 {
-    width: 80%;
-    margin: auto;
-    background-color: teal;
-
    
+    position: absolute;
+    top:11px;
+    left: 29%;
+    padding: 24px;
+}
+.dishes-items p 
+{
+   
+    font-size: 28px;
+    letter-spacing: 1;
+    line-height: 0;
+}
+.photos
+{
+    position: absolute;
+    top: 18%;
+    left: 10%;
+}
+
+.text-boxes
+{
+    height: 33px;
+    background-color: black;
+    width: 254px;
+    position: absolute;
+    top: 75%;
+    opacity: 0.7;
+    left: 6px;
+   
+    border-radius: 10%;
+}
+.text-boxes p
+{
+    COLOR: WHITE;
+    position: absolute;
+    top: -14px;
+    font-weight: bold;
+   
+    padding: 0 17px;
+    font-size: 20px;
+}
+.text-boxes1
+{
+    height: 33px;
+    background-color: black;
+    width: 254px;
+    position: absolute;
+    top: 75%;
+    opacity: 0.7;
+    left: 274px;
+   
+    border-radius: 10%; 
+}
+.text-boxes1 P 
+{
+    
+    COLOR: WHITE;
+    position: absolute;
+    top: -14px;
+    font-weight: bold;
+   
+    padding: 0 17px;
+    font-size: 20px;
+}
+.text-boxes2
+{
+    height: 33px;
+    background-color: black;
+    width: 254px;
+    position: absolute;
+    top: 75%;
+    opacity: 0.7;
+    left: 544px;
+   
+    border-radius: 10%; 
+}
+.text-boxes2 p
+{
+    COLOR: WHITE;
+    position: absolute;
+    top: -14px;
+    font-weight: bold;
+   
+    padding: 0 17px;
+    font-size: 20px;
+}
+.photos img
+{
+    width: 255px;
+    height: 148px;
+    padding: 0 5px;
+}
+.photos1
+{
+    position: absolute;
+    top: 44%;
+    left: 10%;
+}
+.photos1 img
+{
+    width: 255px;
+    height: 148px;
+    padding: 0 5px; 
+}
+.photos2
+{
+    position: absolute;
+    top: 70%;
+    left: 10%; 
+}
+.photos2 img
+{
+    width: 255px;
+    height: 148px;
+    padding: 0 5px; 
 }
