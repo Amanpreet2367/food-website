@@ -249,7 +249,7 @@
     position: absolute;
     top: 25%;
     left: 11%;
-    font-size: 58px;
+    font-size: 49px;
     background-color: #ff9d01;
     color: white;
     font-weight: bold;
@@ -258,9 +258,9 @@
 }
 .middle-container span
 {
-    top: 40%;
+    top: 39%;
     left: 11%;
-    font-size: 55px;
+    font-size: 49px;
     background-color: orange;
     color: white;
     font-weight: bold;
@@ -271,16 +271,17 @@
 .order-items
 {
     width: 100%;
-    height: 500px;
-    background-color: aqua;
+   
+    background-color: white;
 }
 
 .order-item-list
 {
     width: 80%;
-    height: 500px;
-    background-color: blue;
+   
+   
     margin: auto;
+    padding: 38px 0;
 }
 .order-item-list p 
 {
@@ -288,9 +289,24 @@
     TEXT-ALIGN: CENTER;
     margin: 0;
    
-    line-height: -20px;
     padding: 24px;
+   letter-spacing: 1px;
+    line-height: 0;
 }
+.imagess
+{
+    padding: 2rem 5px;
+}
+.dishes
+{
+    width: 100%;
+    
+}
+.dishes-container
+{
+    width: 80%;
+    margin: auto;
+    background-color: teal;
 
-
-
+   
+}
