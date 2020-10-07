@@ -936,7 +936,7 @@ left: 40%;
 {
     width: 80%;
     height: 200px;
-    background-color: blue;
+   
     margin: auto;
     position: relative;
 }
@@ -962,7 +962,28 @@ left: 40%;
     position: absolute;
   
 }
+.logo-footer
+{
+    width: 15%;
+    
+   
+    position: absolute;
+    
+    float: left;
+    top: 61%;
+    left: 1%;
+}
+.footer-paira
+{
+    width: 78%;
+    float: right;
 
+}
+.footer-paira p
+{
+    padding: 21px 0;
+    color: white;
+}
 
 
 
