@@ -389,8 +389,6 @@
     width: 80%;
     margin: auto;
   
-    height: 383px;
-    position: relative;
 }
 .join
 {
@@ -402,7 +400,7 @@
     width: 80%;
     margin: auto;
    
-    height: 300px;
+  
     position: absolute;
     top: 0;
     height: 200px;
@@ -448,7 +446,7 @@
     width: 80%;
    
     margin: auto;
-    position: relative;
+    
 }
 #title-cont
 {
@@ -631,7 +629,7 @@ left: 40%;
 {
     width: 80%;
     
-   
+   position: relative;
     margin: auto;
 }
 .paragraph
@@ -640,7 +638,7 @@ left: 40%;
     float: left;
    
    
-    position: relative;
+   
    
 }
 .paragraph p
@@ -673,13 +671,13 @@ left: 40%;
 .buttons button
 {
     position: absolute;
-    left: 81%;
+    left: 88%;
+    top: 25px;
     font-size: 17px;
     padding: 5px 28px;
     background-color: black;
     color: white;
     border-radius: 6%;
-    margin-top: -53px;
 }
 
 .footer
