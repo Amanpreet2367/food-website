@@ -135,17 +135,11 @@
     width: 15%;
     background-color: white;
     float: right;
-    height: 42px;
-   position: relative;
+   
     margin-top: 26px;
     border: 2px solid black;
 }
-.search-bar p 
-{
-    position: absolute;
-    top: -3px;
-    left: 8%;
-}
+
 
 .search-bar img
 {
@@ -163,20 +157,19 @@
     width: 80%;
     margin: auto;
     height: 125px;
+    position: relative;
     
 }
 .location
 {
     width: 28%;
-    height: 125px;
-
+   
     float: left;
-    position: relative;
+    
 }
 .dish-content
 {
-    position: absolute;
-   
+  
     width: 100%;
    
     line-height: 0;
@@ -189,12 +182,12 @@
 }
 .textbox
 {
-    width: 92%;
-    height: 39px;
-    background-color: white;
+   width: 24%;
+    position: absolute;
+    top: 69%;
+    opacity: 0.7;
+    left: 5px;
     border-radius: 3%;
-    margin-left: 10px;
-    position: relative;
 }
 #sec
 {
@@ -212,30 +205,21 @@
 .different
 {
     width: 3%;
-    height: 125px;
-    
+   
     float: left;
 }
 .different p 
 {
     font-size: 29px;
     color: white;
-    padding: 26px 3px;
+    margin-top: 3.5rem;
 }
-.search-btn
-{
-   
-    height: 125px;
-   
-    float: left;
-    position: relative;
 
-}
 .search-btn img
 {
     position: absolute;
     top: 45%;
-    left: 10%;
+    left: 87%;
 }
 .middle-container
 {
@@ -325,277 +309,59 @@
 
 .text-boxes
 {
-    height: 33px;
-    background-color: black;
-    width: 254px;
+    width: 24%;
     position: absolute;
-    top: 75%;
+    top: 69%;
     opacity: 0.7;
-    left: 6px;
-   
-    border-radius: 10%;
+    left: 5px;
+    border-radius: 3%;
 }
-.text-boxes p
+.items-name
 {
     COLOR: WHITE;
-    position: absolute;
-    top: -14px;
-    font-weight: bold;
    
+    font-weight: bold;
     padding: 0 17px;
     font-size: 20px;
+    background-color: black;
 }
 .text-boxes1
 {
-    height: 33px;
-    background-color: black;
-    width: 254px;
     position: absolute;
-    top: 75%;
+    top: 69%;
     opacity: 0.7;
-    left: 274px;
+    left: 26%;
    
-    border-radius: 10%; 
+    width: 23%;
 }
-.text-boxes1 P 
-{
-    
-    COLOR: WHITE;
-    position: absolute;
-    top: -14px;
-    font-weight: bold;
-   
-    padding: 0 17px;
-    font-size: 20px;
-}
+
 .text-boxes2
 {
-    height: 33px;
-    background-color: black;
-    width: 254px;
+    width: 23%;
     position: absolute;
-    top: 75%;
+    top: 69%;
     opacity: 0.7;
-    left: 544px;
-   
-    border-radius: 10%; 
+    left: 51%;
+    border-radius: 10%;
 }
-.text-boxes2 p
-{
-    COLOR: WHITE;
-    position: absolute;
-    top: -14px;
-    font-weight: bold;
-   
-    padding: 0 17px;
-    font-size: 20px;
-}
+
 .text-boxes3
 {
    
-    height: 33px;
-    background-color: black;
     width: 254px;
     position: absolute;
-    top: 75%;
+    top: 69%;
     opacity: 0.7;
-    left: 812px;
-   
-    border-radius: 10%;  
-}
-.text-boxes3 p 
-{
-    COLOR: WHITE;
-    position: absolute;
-    top: -14px;
-    font-weight: bold;
-   
-    padding: 0 17px;
-    font-size: 20px;
-}
-.text-boxes4
-{
-    
-    height: 33px;
-    background-color: black;
-    width: 254px;
-    position: absolute;
-    top: 76%;
-    opacity: 0.7;
-    left: 6px;
-   
-    border-radius: 10%;  
-}
-.text-boxes4 p 
-{
-    COLOR: WHITE;
-    position: absolute;
-    top: -14px;
-    font-weight: bold;
-   
-    padding: 0 17px;
-    font-size: 20px; 
-}
-.text-boxes5
+    left: 76%;
+    border-radius: 10%;
 
-{
-    height: 33px;
-    background-color: black;
-    width: 254px;
-    position: absolute;
-    top: 75%;
-    opacity: 0.7;
-    left: 274px;
-   
-    border-radius: 10%;  
 }
-.text-boxes5 p
-{
-    COLOR: WHITE;
-    position: absolute;
-    top: -14px;
-    font-weight: bold;
-   
-    padding: 0 17px;
-    font-size: 20px;
-}
-.text-boxes6
-{
-    
-    height: 33px;
-    background-color: black;
-    width: 254px;
-    position: absolute;
-    top: 75%;
-    opacity: 0.7;
-    left: 812px;
-   
-    border-radius: 10%;
-}
-.text-boxes6 p
-{
-    COLOR: WHITE;
-    position: absolute;
-    top: -14px;
-    font-weight: bold;
-   
-    padding: 0 17px;
-    font-size: 20px;
-}
-.text-boxes7
-{
-    height: 33px;
-    background-color: black;
-    width: 254px;
-    position: absolute;
-    top: 75%;
-    opacity: 0.7;
-    left: 544px;
-   
-    border-radius: 10%; 
-}
-.text-boxes7 p
-{
-    COLOR: WHITE;
-    position: absolute;
-    top: -14px;
-    font-weight: bold;
-   
-    padding: 0 17px;
-    font-size: 20px;
-}
-.text-boxes8
-{
-    height: 33px;
-    background-color: black;
-    width: 254px;
-    position: absolute;
-    top: 76%;
-    opacity: 0.7;
-    left: 6px;
-   
-    border-radius: 10%;  
-}
-.text-boxes8 p
-{
-    COLOR: WHITE;
-    position: absolute;
-    top: -14px;
-    font-weight: bold;
-   
-    padding: 0 17px;
-    font-size: 20px; 
-}
-.text-boxes9
-{
-    height: 33px;
-    background-color: black;
-    width: 254px;
-    position: absolute;
-    top: 75%;
-    opacity: 0.7;
-    left: 274px;
-   
-    border-radius: 10%;  
-}
-.text-boxes9 p
-{
-    COLOR: WHITE;
-    position: absolute;
-    top: -14px;
-    font-weight: bold;
-   
-    padding: 0 17px;
-    font-size: 20px;  
-}
-.text-boxes10
-{
-    height: 33px;
-    background-color: black;
-    width: 254px;
-    position: absolute;
-    top: 75%;
-    opacity: 0.7;
-    left: 544px;
-   
-    border-radius: 10%; 
-}
-.text-boxes10 p
-{
-    COLOR: WHITE;
-    position: absolute;
-    top: -14px;
-    font-weight: bold;
-   
-    padding: 0 17px;
-    font-size: 20px;  
-}
-.text-boxes11
-{
-    height: 33px;
-    background-color: black;
-    width: 254px;
-    position: absolute;
-    top: 75%;
-    opacity: 0.7;
-    left: 812px;
-   
-    border-radius: 10%;
-}
-.text-boxes11 P 
-{
-    COLOR: WHITE;
-    position: absolute;
-    top: -14px;
-    font-weight: bold;
-   
-    padding: 0 17px;
-    font-size: 20px;  
-}
-.photos img
+
+
+.items-images
 {
     width: 255px;
-    height: 148px;
+   
     padding: 0 5px;
 }
 .photos1
@@ -604,24 +370,14 @@
     top: 44%;
     left: 10%;
 }
-.photos1 img
-{
-    width: 255px;
-    height: 148px;
-    padding: 0 5px; 
-}
+
 .photos2
 {
     position: absolute;
     top: 70%;
     left: 10%; 
 }
-.photos2 img
-{
-    width: 255px;
-    height: 148px;
-    padding: 0 5px; 
-}
+
 .photoss
 {
     width: 100%;
