@@ -216,11 +216,11 @@
 
 .middle-area p
 {
-    font-size: 32px;
+    font-size: 42px;
     font-weight: bold;
     color: white;
     background-color: orange;
-    width: 29%;
+    width: 38%;
     position: absolute;
     top:39%;
     left: 10%;
@@ -230,9 +230,9 @@
 #Delievry
 {
     position: absolute;
-    top: 50%;
+    top: 54%;
     left: 10%;
-    width: 24%;
+    width: 31%;
 }
 .order-items
 {
@@ -272,23 +272,64 @@
 .dishes
 {
     background-image: url('../images/bg1.png');
-    height: 100vh;
+    height: 130vh;
+}
+.cities-food
+{
+    width: 80%;
+    margin: auto;
 }
 
 .photos
 {
+  
+   float: left;
+   margin-top: 20px;
+   position: relative;
+}
+.photos img
+{
+    width: 90%;
+}
+.count 
+{
+    height: 30px;
+    position: absolute;
+    background-color: black;
+    width: 90%;
+    bottom: 0;
+    opacity: 0.7;
+}
+.count p
+{
+    color: white;
+    font-size: 20px;
    
+    margin: 4px 0;
+    font-weight: bold;
+    
+    padding: 0 10px;
+}
+.dish-city
+{
+    height: 60px;
+    background-color: black;
+    width: 60px;
+    
+    position: absolute;
+    top: 19%;
+    left: 35%;
+    opacity: 0.7;
+    border-radius: 50%;
+}
+.dish-city P
+{
+    COLOR: WHITE;
+    FONT-SIZE: 20PX;
+    FONT-WEIGHT: BOLD;
+    TEXT-ALIGN: CENTER;
 }
 
-.photos1
-{
-    
-}
-
-.photos2
-{
-    
-}
 
 .photoss
 {
