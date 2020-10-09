@@ -143,7 +143,7 @@
 {
     width: 100%;
     background-color: #363636;
-    
+    height: 113px;
 }
 .search-area-content
 {
@@ -199,9 +199,11 @@
 {
    
    background-image: url('../images/slide.png');
-    height: 100vh;
-    background-size: cover;
-    width: 100%;
+    height: 390px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    
 }
 
 
@@ -209,6 +211,7 @@
 {
     width: 80%;
     margin: auto;
+    
 }
 
 .middle-area p
@@ -218,15 +221,23 @@
     color: white;
     background-color: orange;
     width: 29%;
-    padding: 3px 7px;
-    
-    margin-left: 10%;
+    position: absolute;
+    top:39%;
+    left: 10%;
+   
+    margin-top: 0;
 }
-
+#Delievry
+{
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    width: 24%;
+}
 .order-items
 {
     width: 100%;
-   
+   height: 270px;
     background-color: white;
 }
 
@@ -236,117 +247,47 @@
    
    
     margin: auto;
-    padding: 38px 0;
-}
-.order-item-list p 
-{
-    FONT-SIZE: 28PX;
-    TEXT-ALIGN: CENTER;
-    margin: 0;
    
-    padding: 24px;
-   letter-spacing: 1px;
-    line-height: 0;
+}
+.titles
+{
+    
+        font-size: 28px;
+        line-height: 0;
+        text-align: center;
+        letter-spacing: 1;
+        padding: 24px 0;
+}
+.underline
+{
+    width: 33%;
+    padding: 1px 0;
+    background-color: #ff9d01;
+    margin: auto;
 }
 .imagess
 {
-    padding: 2rem 5px;
+    padding: 0 5px;
 }
 .dishes
 {
-    position: relative;
+    background-image: url('../images/bg1.png');
+    height: 100vh;
 }
-.dishes-items
-{
-   
-    position: absolute;
-    top:11px;
-    left: 29%;
-    padding: 24px;
-}
-.dishes-items p 
-{
-   
-    font-size: 28px;
-    letter-spacing: 1;
-    line-height: 0;
-}
+
 .photos
 {
-    position: absolute;
-    top: 18%;
-    left: 10%;
-}
-
-.text-boxes
-{
-    width: 24%;
-    position: absolute;
-    top: 69%;
-    opacity: 0.7;
-    left: 5px;
-    border-radius: 3%;
-}
-.items-name
-{
-    COLOR: WHITE;
    
-    font-weight: bold;
-    padding: 0 17px;
-    font-size: 20px;
-    background-color: black;
-}
-.text-boxes1
-{
-    position: absolute;
-    top: 69%;
-    opacity: 0.7;
-    left: 26%;
-   
-    width: 23%;
 }
 
-.text-boxes2
-{
-    width: 23%;
-    position: absolute;
-    top: 69%;
-    opacity: 0.7;
-    left: 51%;
-    border-radius: 10%;
-}
-
-.text-boxes3
-{
-   
-    width: 254px;
-    position: absolute;
-    top: 69%;
-    opacity: 0.7;
-    left: 76%;
-    border-radius: 10%;
-
-}
-
-
-.items-images
-{
-    width: 255px;
-   
-    padding: 0 5px;
-}
 .photos1
 {
-    position: absolute;
-    top: 44%;
-    left: 10%;
+    
 }
 
 .photos2
 {
-    position: absolute;
-    top: 70%;
-    left: 10%; 
+    
 }
 
 .photoss
@@ -359,7 +300,12 @@
 {
     width: 80%;
     margin: auto;
+    padding: 37px 0;
   
+}
+.plan-gift img
+{
+    width: 49%;
 }
 .join
 {
