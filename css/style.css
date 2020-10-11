@@ -6,7 +6,7 @@
 }
 .main-container
 {
-    width: 80%;
+    
     margin: 0 10%;
     height: 32px;
     
@@ -391,17 +391,13 @@
     position: relative;
 
 }
-.hotel-images
-{
-    width: 80%;
-   
-    margin: auto;
-    
-}
+
 
 .infohotel
 {
-    margin: auto;
+    
+    width: 100%;
+    margin-left: 6%;
    
   
 
@@ -409,46 +405,67 @@
 
 .hotels
 {
-    width: 19%;
+    width: 16%;
     height: 318px;
-   
     float: left;
-    margin-left: 7px;
-    border:1px solid black;
+    margin-left: 1%;
+    border: 1px solid black;
+    border-radius: 3%;
 }
 .hotels img
 {
-    width: 99%;
+    padding: 0 1px;
+    position: relative;
 }
 .hotels p
 {
     padding: 0 10px;
     font-size: 16px;
+    font-weight: bold;
 
+}
+.shops
+{
+    position: absolute;
+  
+    background-color: black;
+    bottom: 45%;
+    width: 16%;
+    padding: 5px 0;
+    opacity: 0.7;
+
+}
+.shops p
+{
+    margin: 0;
+    color: white;
+    text-align: center;
 }
 #pairagraph
 {
     padding: 0 10px;
     text-align: justify;
     font-size: 14px;
+    font-weight: unset;
 }
 .hotelss
 {
-    width: 19%;
+    width: 16%;
     height: 296px;
-   
     float: left;
-    margin-left: 7px;
-    border:1px solid black;
+    margin-left: 1%;
+    border: 1px solid black;
+    border-radius: 3%;
 }
 .hotelss img
 {
-    width: 99%;
+    padding: 0 1px;
 }
 .hotelss p
 {
     padding: 0 10px;
     font-size: 16px;
+    font-weight: bold;
 
 }
 
