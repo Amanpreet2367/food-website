@@ -508,8 +508,8 @@
 .footer
 {
     width: 100%;
-    height: 200px;
-    background-color: black;
+
+    background-image: url('../images/footer-bg.png');
 }
 .footer-cont
 {
@@ -526,7 +526,7 @@
 }
 .logos-image
 {
-    width: 11%;
+    width: 12%;
     float: left;
 }
 .ftlogo
@@ -545,7 +545,7 @@
 {
     height: 2px;
     width: 100%;
-    
+    float: left;
     background-color: #ffffff;
    
 }
@@ -570,7 +570,13 @@
     padding: 0;
     color: white;
 }
+.made-by
 
+{
+    LETTER-SPACING: 2px;
+    FONT-SIZE: 10PX;
+
+}
 
 
 
