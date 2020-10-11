@@ -154,7 +154,7 @@
 }
 .location
 {
-    width: 26%;
+    width: 27%;
    color: white;
     float: left;
     
@@ -339,15 +339,12 @@
 }
 .plan-gift
 {
-    width: 80%;
+    width: 82%;
     margin: auto;
     padding: 37px 0;
   
 }
-.plan-gift img
-{
-    width: 49%;
-}
+
 .join
 {
     background-image: url('../images/started-bg.png');
@@ -465,7 +462,7 @@
 {
     width: 80%;
     
-   position: relative;
+ 
     margin: auto;
 }
 .paragraph
@@ -489,31 +486,23 @@
    
    
 }
-.buttons p
+.mail-address
 {
-    width: 55%;
-   
-    color: #d2d2d2;
-    font-size: 20px;
-    background-color: white;
-    padding: 5px 12px;
-    letter-spacing: 1;
-    margin-left: 16%;
-    margin-top: 26px;
-    border-radius: 2%;
-   
+    padding: 6px 3rem;
+    margin: 20px 20px;
+    font-size: 17px;
+
 }
+
 
 .buttons button
 {
-    position: absolute;
-    left: 88%;
-    top: 25px;
     font-size: 17px;
-    padding: 5px 28px;
+    padding: 6px 20px;
     background-color: black;
     color: white;
     border-radius: 6%;
+    margin: 0 20px;
 }
 
 .footer
@@ -528,13 +517,22 @@
     height: 200px;
    
     margin: auto;
-    position: relative;
+   
 }
-.footer-cont img
+.footer-bar
 {
-    position: absolute;
-    top: 10%;
-    left: 90%;
+    width: 88%;
+    float: left;
+}
+.logos-image
+{
+    width: 11%;
+    float: left;
+}
+.ftlogo
+{
+    padding: 22px 0;
+    float: right;
 }
 .footer-cont li
 {
@@ -549,19 +547,17 @@
     width: 100%;
     
     background-color: #ffffff;
-    position: absolute;
-  
+   
 }
 .logo-footer
 {
     width: 15%;
-    
-   
-    position: absolute;
-    
     float: left;
-    top: 61%;
-    left: 1%;
+
+}
+#logo-hotel
+{
+    padding: 28px 0;
 }
 .footer-paira
 {
@@ -571,7 +567,7 @@
 }
 .footer-paira p
 {
-    padding: 21px 0;
+    padding: 0;
     color: white;
 }
 
