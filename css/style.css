@@ -272,31 +272,30 @@
 .dishes
 {
     background-image: url('../images/bg1.png');
-    height: 130vh;
+    height: 164vh;
 }
 .cities-food
 {
-    width: 80%;
+    width: 90%;
     margin: auto;
 }
 
 .photos
 {
   
-   float: left;
-   margin-top: 20px;
-   position: relative;
+    float: left;
+   
+    position: relative;
+   
+    margin: 20px 16px;
 }
-.photos img
-{
-    width: 90%;
-}
+
 .count 
 {
     height: 30px;
     position: absolute;
     background-color: black;
-    width: 90%;
+    width: 99%;
     bottom: 0;
     opacity: 0.7;
 }
