@@ -1,18 +1,17 @@
-.head-area
-{
-    width:100%;
-    background-color: #363636;
-   height: 32px;
-}
+
 .main-container
 {
-    
-    margin: 0 10%;
     height: 32px;
-    
+    width: 100%;
+  
+    background-color: #363636
+}
+.head-area-content
+{
+    width: 90%;
+    margin: auto;
 
 }
-
 .phone-icon
 {
     width: 15%;
@@ -84,6 +83,10 @@
     padding: 13px 5px;
     height: 6px;
 }
+/* finish head area*/
+
+
+
 .menu
 {
     width: 100%;
@@ -94,8 +97,8 @@
 .menu-bar
 {
    
-    height: 100px;
-    width: 80%;
+    height: 92px;
+    width: 90%;
     margin: auto
    
 }
@@ -107,7 +110,7 @@
 }
 .logo img
 {
-    padding: 17px 0px;
+    padding: 13px 0px;
 }
 .menu-item
 {
@@ -115,6 +118,10 @@
     
     
     float: left;
+}
+.menu-item ul
+{
+    margin: 12px 68px;
 }
 .menu-item li
 {
@@ -126,28 +133,32 @@
 }
 .cities
 {
-    float: right;
+    float: left;
   
 }
 .options
 {
-    MARGIN: 21% 0;
-    padding: 11px 4px;
-    font-size: 14px;
+    padding: 9px 4px;
+    font-size: 16px;
     font-weight: bold;
     border: 2px solid black;
+    margin-top: 19%;
+    margin-left: 34%;
+
 }
+/* finish menu bar */
+
 
 
 .search-area
 {
     width: 100%;
     background-color: #363636;
-    height: 113px;
+    height: 120px;
 }
 .search-area-content
 {
-    width: 80%;
+    width: 90%;
     margin: auto;
    
     
@@ -162,8 +173,9 @@
 .sector-option
 {
     PADDING: 10PX 5px;
-    WIDTH: 88%;
+    WIDTH: 93%;
     font-size: 14px;
+    border-radius: 3%;
 }
 .location p
 {
@@ -174,11 +186,16 @@
 .textboxx
 {
     padding: 10PX 10px;
-   
-    width: 90%;
+  
+    width: 97%;
     font-size: 14px;
 }
-
+.search-area-content img
+{
+    margin-top: 3.9%;
+   
+    margin-left: 1%;
+}
 .different
 {
     width: 5%;
@@ -190,9 +207,12 @@
     font-size: 29px;
     color: white;
   
-    padding: 15px 0;
+    padding: 17px 14px;
 
 }
+/* finish location area */
+
+
 
 
 .middle-container
@@ -209,7 +229,7 @@
 
 .middle-area
 {
-    width: 80%;
+    width: 90%;
     margin: auto;
     
 }
@@ -223,7 +243,7 @@
     width: 38%;
     position: absolute;
     top:39%;
-    left: 10%;
+   
    
     margin-top: 0;
 }
@@ -231,9 +251,13 @@
 {
     position: absolute;
     top: 54%;
-    left: 10%;
+   
     width: 31%;
 }
+
+/* finish middle area */
+
+
 .order-items
 {
     width: 100%;
