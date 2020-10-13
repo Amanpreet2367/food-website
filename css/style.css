@@ -86,24 +86,31 @@
 .menu-item ul {
   margin: 12px 68px;
 }
+@font-face
+    {
+        font-family: 'Klavika-Regular';
+        src: url('/fonts/Klavika-Regular.ttf');
+    }
 .menu-item li {
   display: inline-block;
 
-  padding: 23px 25px;
+  padding: 23px 30px;
   font-size: 19px;
-  color: black;
-  font-weight: bold;
+ 
+  font-family: Klavika-Regular;
+  
 }
 .cities {
   float: left;
 }
 .options {
-  padding: 9px 4px;
+  padding: 7px 4px;
   font-size: 16px;
-  font-weight: bold;
+ 
   border: 2px solid black;
-  margin-top: 19%;
+  margin-top: 21%;
   margin-left: 34%;
+  font-family:  Klavika-Regular;
 }
 /* finish menu bar */
 
@@ -127,9 +134,14 @@
   font-size: 14px;
   border-radius: 6px;
 }
+@font-face
+    {
+        font-family: 'Klavika-Light';
+        src: url('/fonts/ Klavika-Light.ttf');
+    }
 .location p {
   margin-top: 2rem;
-
+  font-family: Klavika-Light;
   line-height: 0;
 }
 .textboxx {
