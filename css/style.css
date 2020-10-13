@@ -505,19 +505,19 @@
 .subscribe
 {
     width: 100%;
-   height: 77px;
+   height: 70px;
     background-color: #ff9d01;
 }
 .subscribe-cont
 {
-    width: 80%;
+    width: 90%;
     
  
     margin: auto;
 }
 .paragraph
 {
-    width: 50%;
+    width: 45%;
     float: left;
    
    
@@ -526,21 +526,26 @@
 }
 .paragraph p
 {
-    font-size: 25px;
+    font-size: 22px;
     color: white;
 }
 .buttons
 {
-    width: 50%;
-    float: left;
+    width: 51%;
+    float: right;
+  
+    text-align: right;
+    margin-top: 16px;
+
    
    
 }
 .mail-address
 {
-    padding: 6px 3rem;
-    margin: 20px 20px;
-    font-size: 17px;
+    padding: 8px 1rem;
+   
+    font-size: 16px;
+    width: 54%;
 
 }
 
@@ -548,11 +553,11 @@
 .buttons button
 {
     font-size: 17px;
-    padding: 6px 20px;
+    padding: 8px 20px;
     background-color: black;
     color: white;
-    border-radius: 6%;
-    margin: 0 20px;
+   
+    width: 20%;
 }
 
 .footer
