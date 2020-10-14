@@ -532,6 +532,49 @@
 @media only screen and (min-width: 320px)
 {
 
+.main-container
+{
+  height: 135px
+}
+.phone-icon
+{
+  float: unset;
+    width: 100%;
+   
+    text-align: center;
+}
+.phone-icon img
+{
+  height: 52px;
+}
+.profile
+{
+  float: unset;
+}
+.image img
+{
+  height: 52px;
+}
+.title p
+{
+  font-size: 25px;
+    padding: 10px;
+}
+.drop-icon img
+{
+  padding: 20px 0;
+   
+    height: 21px;
+}
+
+
+
+
+
+
+
+
+
 
 .menu-item
 {
@@ -585,6 +628,7 @@
   .phone-icon img
   {
     padding: 7px 0;
+    height: unset;
   }
   .profile {
     float: right;
