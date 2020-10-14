@@ -13,16 +13,9 @@
 
   float: left;
 }
-.telephone {
-  float: left;
-}
-.telephone img {
-  padding: 7px;
-}
-.phnumber {
-  padding: 8px 0px;
-  color: white;
-  font-size: 13px;
+.phone-icon img
+{
+  padding: 7px 0;
 }
 .profile {
   float: right;
@@ -589,16 +582,9 @@
   
     float: left;
   }
-  .telephone {
-    float: left;
-  }
-  .telephone img {
-    padding: 7px;
-  }
-  .phnumber {
-    padding: 8px 0px;
-    color: white;
-    font-size: 13px;
+  .phone-icon img
+  {
+    padding: 7px 0;
   }
   .profile {
     float: right;
