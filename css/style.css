@@ -580,6 +580,92 @@
   height: 94px;
   float: right;
 }
+.search-area
+{
+  height: 40%;
+}
+
+.location
+{
+  width: 100%;
+    font-size: 30px;
+    padding: 10px 0;
+}
+.sector-option
+{
+  width: 100%;
+ 
+  font-size: 38px;
+}
+
+.textboxx
+{
+  width: 100%;
+  font-size: 38px;
+}
+.different
+{
+  width: 100%;
+}
+.different p
+{
+  font-size: 64px;
+    text-align: center;
+    padding: 0px;
+    line-height: 0;
+   
+    margin: 40px;
+}
+
+.search-area-content img
+{
+  height: 90px;
+  width: 41%;
+  
+}
+.middle-area p
+{
+  top: 19%;
+}
+#Delievry
+{
+  top: 37%;
+}
+.titles
+{
+  font-size: 60px;
+}
+.titles span
+{
+  border-bottom: 8px solid orange;
+}
+.order-items
+{
+  height: 108%;
+}
+.imagess img
+{
+  width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -751,6 +837,8 @@
     width: 27%;
     color: white;
     float: left;
+    font-size: unset;
+    padding: unset;
   }
   .sector-option {
     padding: 10px 5px;
@@ -779,7 +867,8 @@
   }
   .search-area-content img {
     margin-top: 3.9%;
-  
+  height: unset;
+  width: unset;
     margin-left: 1%;
   }
   .different {
@@ -791,7 +880,9 @@
     font-size: 29px;
     color: white;
     font-family: 'Klavika-Light';
-    padding: 17px 14px;
+    padding: 42px 14px;
+    margin: unset;
+    line-height: unset;
   }
   /* finish location area */
   
@@ -858,6 +949,7 @@
   .imagess img {
     margin: 15px 0;
     padding: 0 18px;
+    width: unset;
   }
   /* finish ordering area */
   
