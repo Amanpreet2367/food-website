@@ -133,11 +133,12 @@
   width: 93%;
   font-size: 14px;
   border-radius: 6px;
+  font-family: 'Klavika-Light';
 }
 @font-face
     {
         font-family: 'Klavika-Light';
-        src: url('/fonts/ Klavika-Light.ttf');
+        src: url('/fonts/Klavika-Light.otf');
     }
 .location p {
   margin-top: 2rem;
@@ -150,6 +151,7 @@
   width: 97%;
   font-size: 14px;
   border: unset;
+  font-family: 'Klavika-Light';
 }
 .search-area-content img {
   margin-top: 3.9%;
@@ -164,7 +166,7 @@
 .different p {
   font-size: 29px;
   color: white;
-
+  font-family: 'Klavika-Light';
   padding: 17px 14px;
 }
 /* finish location area */
@@ -181,23 +183,28 @@
   width: 90%;
   margin: auto;
 }
-
+@font-face
+    {
+        font-family: 'Adelle_Bold';
+        src: url('/fonts/Adelle_Bold.otf');
+    }
 .middle-area p {
-  font-size: 42px;
-  font-weight: bold;
-  color: white;
-  background-color: orange;
-  width: 38%;
-  position: absolute;
-  top: 39%;
-
-  margin-top: 0;
+  font-size: 39px;
+   
+    color: white;
+    background-color: orange;
+  
+    position: absolute;
+    top: 39%;
+    font-family: 'Adelle_Bold';
+    margin-top: 0;
+    letter-spacing: 2px;
+    padding: 7px;
 }
 #Delievry {
   position: absolute;
-  top: 54%;
+  top: 57%;
 
-  width: 31%;
 }
 
 /* finish middle area */
@@ -214,11 +221,12 @@
   margin: auto;
 }
 .titles {
-  font-size: 28px;
+  font-size: 31px;
 
   text-align: center;
   letter-spacing: 1;
   padding: 24px 0;
+  font-family: 'Klavika-Light'
 }
 .titles span {
   border-bottom: 3px solid orange;
@@ -258,12 +266,11 @@
 }
 .count p {
   color: white;
-  font-size: 20px;
-
-  margin: 4px 0;
-  font-weight: bold;
-
-  padding: 0 10px;
+    font-size: 15px;
+    margin: 4px 0;
+    font-weight: bold;
+    padding: 2px 10px;
+    font-family: 'Klavika-Light';
 }
 .dish-city {
   height: 60px;
@@ -279,7 +286,7 @@
 .dish-city P {
   color: WHITE;
   font-size: 20px;
-  font-weight: BOLD;
+  font-family: 'Klavika-Light';
   text-align: CENTER;
 }
 /* finish photos area*/
@@ -308,21 +315,24 @@
 
   text-align: center;
 
-  padding: 3.3rem 0;
+  padding: 3.6rem 0;
 }
 .join-container p {
   margin: 0;
-  font-size: 28px;
-  color: orange;
-  font-weight: bold;
+    font-size: 28px;
+    color: #ff6101;
+  
+    font-family: 'Klavika-Regular';
 }
 .join-container img {
-  margin-top: 3%;
+  margin-top: 1%;
 }
 #easy {
-  color: #afa3a3;
+  color: #747474;
   font-style: italic;
   font-size: 21px;
+  line-height: 2;
+
 }
 /* finish joinning area */
 
@@ -353,15 +363,17 @@
 }
 .hotels p {
   padding: 0 10px;
-  font-size: 16px;
+  font-size: 14px;
   font-weight: bold;
+  font-family: 'Klavika-Regular';
+ 
 }
 .shops {
   background-color: black;
   padding: 5px 0;
   opacity: 0.7;
   position: absolute;
-  top: 127px;
+  top: 128px;
   width: 100%;
   letter-spacing: 0.5;
 }
@@ -369,6 +381,10 @@
   margin: 0;
   color: white;
   text-align: center;
+  font-family: 'Klavika-Regular';
+  font-weight: unset;
+  letter-spacing: 0px;
+  font-size: 13px;
 }
 #pairagraph {
   padding: 0 10px;
@@ -376,6 +392,7 @@
   font-size: 13px;
   font-weight: unset;
   line-height: 2;
+  font-family: 'Klavika-Light';
 }
 .hotelss {
   width: 18%;
@@ -391,8 +408,9 @@
 }
 .hotelss p {
   padding: 0 10px;
-  font-size: 16px;
-  font-weight: bold;
+  font-size: 13px;
+ 
+  font-family:'Klavika-Regular' ;
 }
 
 .subscribe {
