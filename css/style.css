@@ -650,6 +650,7 @@
   }
   .image img {
     padding: 4px 3px;
+    height: unset;
   }
   .title {
     float: left;
@@ -658,6 +659,7 @@
     margin: 8px 4px;
     color: white;
     font-size: 13px;
+    padding: unset;
   }
   .drop-icon {
     float: left;
