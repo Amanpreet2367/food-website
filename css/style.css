@@ -408,10 +408,14 @@
 }
 .hotelss p {
   padding: 0 10px;
-  font-size: 13px;
- 
-  font-family:'Klavika-Regular' ;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: 'Klavika-Regular';
 }
+
+/*finish favourite area */
+
+
 
 .subscribe {
   width: 100%;
@@ -430,6 +434,7 @@
 .paragraph p {
   font-size: 22px;
   color: white;
+  font-family: 'Klavika-Light';
 }
 .buttons {
   width: 51%;
@@ -444,6 +449,7 @@
   font-size: 16px;
   width: 54%;
   border: unset;
+  font-family: 'Klavika-Light';
 }
 
 .buttons button {
@@ -454,6 +460,7 @@
   border-radius: 4px;
   width: 20%;
   border:unset;
+  font-family: 'Klavika-Light';
 }
 
 /* finish subscribe area */
@@ -490,6 +497,7 @@
   padding: 27px 10px;
   font-size: 16px;
   color: #b7b7b7;
+  font-family: 'Klavika-Regular';
 }
 .line1 {
   height: 2px;
@@ -513,6 +521,7 @@
     font-size: 15px;
   color: #b7b7b7;
   padding: 11px 0;
+  font-family: 'Klavika-Regular';
 }
 #made-by {
     line-height: 0;
@@ -520,4 +529,5 @@
     padding: 0;
     font-size: 12px;
     letter-spacing: 2px;
+    font-family: 'Klavika-Regular';
 }
