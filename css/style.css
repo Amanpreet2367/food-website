@@ -702,6 +702,10 @@ margin: auto;
 {
   width: 100%;
 }
+.hotels img
+{
+  margin-top: 80%;
+}
 .shops
 {
   top: 51%;
@@ -722,9 +726,12 @@ margin: auto;
 .hotelss
 {
   width: 100%;
+  margin-top: 80%;
 }
-
-
+.hotelss p
+{
+  font-size: 50px;
+}
 
 
 
