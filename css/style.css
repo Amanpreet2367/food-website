@@ -734,14 +734,39 @@ margin: auto;
 {
   font-size: 50px;
 }
+.subscribe
+{
+  height: 317px;
+}
+.paragraph
+{
+  width: 100%;
+}
 
+.paragraph p
+{
+  font-size: 57px;
+}
 
-
-
-
-
-
-
+.buttons
+{
+  width: 100%;
+  margin: unset;
+}
+.buttons button
+{
+  padding: 19px 13px;
+  font-size: 33px;
+  width: 26%;
+ 
+  height: 74px;
+}
+.mail-address
+{
+  width: 50%;
+  font-size: 36px;
+  float: left;
+}
 
 
 
