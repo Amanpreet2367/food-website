@@ -665,7 +665,7 @@ margin: auto;
 }
 .hotel-discription
 {
-  height: 323%;
+  height: 391%;
 }
 #easy
 {
@@ -761,11 +761,11 @@ margin: auto;
 {
   padding: 9px 12px;
   font-size: 45px;
-  width: 26%;
+  width: 27%;
 }
 .mail-address
 {
-  width: 69%;
+  width: 70%;
   font-size: 47px;
   float: left;
 }
@@ -1279,6 +1279,7 @@ margin: auto;
     width: 54%;
     border: unset;
     font-family: 'Klavika-Light';
+    float: unset;
   }
   
   .buttons button {
