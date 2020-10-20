@@ -216,7 +216,7 @@
 }
 .titles {
   font-size: 31px;
-width: 90%;
+width: 100%;
 margin: auto;
   text-align: center;
   letter-spacing: 1;
@@ -246,7 +246,7 @@ margin: auto;
 
   position: relative;
 
-  margin: 20px 16px;
+  margin: 20px 17px;
 }
 
 .count {
@@ -968,7 +968,7 @@ margin: auto;
   
     position: relative;
   
-    margin: 20px 16px;
+    margin: 20px 17px;
   }
   
   .count {
