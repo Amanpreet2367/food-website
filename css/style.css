@@ -662,7 +662,10 @@ margin: auto;
 {
   font-size: 50px;
 }
-
+.hotel-discription
+{
+  height: 392%;
+}
 #easy
 {
   font-size: 38px;
@@ -701,14 +704,12 @@ margin: auto;
 .hotels
 {
   width: 100%;
+  height: unset;
 }
-.hotels img
-{
-  margin-top: 80%;
-}
+
 .shops
 {
-  top: 51%;
+  top: 41%;
 }
 
 .shops p
@@ -726,7 +727,8 @@ margin: auto;
 .hotelss
 {
   width: 100%;
-  margin-top: 80%;
+  margin-top: 5%;
+  height: unset;
 }
 .hotelss p
 {
