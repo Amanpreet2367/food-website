@@ -664,7 +664,7 @@ margin: auto;
 }
 .hotel-discription
 {
-  height: 392%;
+  height: 323%;
 }
 #easy
 {
@@ -705,6 +705,7 @@ margin: auto;
 {
   width: 100%;
   height: unset;
+  margin:unset;
 }
 
 .shops
@@ -729,6 +730,7 @@ margin: auto;
   width: 100%;
   margin-top: 5%;
   height: unset;
+  margin-left: unset;
 }
 .hotelss p
 {
@@ -755,20 +757,21 @@ margin: auto;
 }
 .buttons button
 {
-  padding: 19px 13px;
-  font-size: 33px;
+  padding: 9px 12px;
+  font-size: 45px;
   width: 26%;
- 
-  height: 74px;
 }
 .mail-address
 {
-  width: 50%;
-  font-size: 36px;
+  width: 69%;
+  font-size: 47px;
   float: left;
 }
 
-
+.footer-cont
+{
+  height: 336px;
+}
 
 
 
