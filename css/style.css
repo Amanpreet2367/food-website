@@ -654,21 +654,50 @@ margin: auto;
   width: 100%;
 }
 
+.join
+{
+  height: unset;
+}
+.join-container p
+{
+  font-size: 50px;
+}
 
+#easy
+{
+  font-size: 38px;
+}
 
+.photos
+{
+  width: 100%;
+}
 
+.photos img
+{
+  width: 100%;
+}
+.count
+{
+  height: 86px;
+}
+.count p
+{
+  padding: 8px 19px;
+   
+    font-size: 53px;
 
+}
+.dish-city
+{
+  height: 161px;
+    width: 161px;
+}
 
-
-
-
-
-
-
-
-
-
-
+.dish-city P
+{
+  font-size: 52px;
+}
 
 
 
@@ -967,7 +996,7 @@ margin: auto;
   
   .photos {
     float: left;
-  
+  width: unset;
     position: relative;
   
     margin: 20px 17px;
