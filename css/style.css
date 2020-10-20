@@ -647,6 +647,7 @@ margin: auto;
 .imagess img
 {
   width: 100%;
+  padding: unset;
 }
 
 .plan-gift img
@@ -674,6 +675,7 @@ margin: auto;
 .photos
 {
   width: 100%;
+  margin-left: unset;
 }
 
 .photos img
