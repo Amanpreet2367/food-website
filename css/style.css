@@ -799,12 +799,23 @@ margin: auto;
 {
   width: 100%;
 }
-
-
-
-
-
-
+#logo-hotel
+{
+  height: 185px;
+}
+.footer-paira
+{
+  width: 100%;
+}
+.footer-paira p
+{
+  font-size: 26px;
+}
+#made-by
+{
+  font-size: 15px;
+  line-height: unset;
+}
 
 
 
@@ -1341,12 +1352,13 @@ margin: auto;
   .footer-cont {
     width: 90%;
     height: 200px;
-  
+  text-align: unset;
     margin: auto;
   }
   .footer-bar {
     width: 88%;
     float: left;
+    padding: unset;
   }
   .logos-image {
     width: 12%;
@@ -1355,6 +1367,8 @@ margin: auto;
   .ftlogo {
     padding: 22px 0;
     float: right;
+    margin: unset;
+    height: unset;
   }
   #about-footer
   {
@@ -1366,6 +1380,7 @@ margin: auto;
     font-size: 16px;
     color: #b7b7b7;
     font-family: 'Klavika-Regular';
+    margin:unset;
   }
   .line1 {
     height: 2px;
@@ -1379,6 +1394,7 @@ margin: auto;
   }
   #logo-hotel {
     padding: 28px 0;
+    height: unset;
   }
   .footer-paira {
     width: 82%;
