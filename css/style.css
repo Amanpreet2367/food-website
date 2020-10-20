@@ -649,8 +649,10 @@ margin: auto;
   width: 100%;
 }
 
-
-
+.plan-gift img
+{
+  width: 100%;
+}
 
 
 
@@ -1017,7 +1019,14 @@ margin: auto;
     margin: auto;
     padding: 37px 0;
   }
-  
+  .plan-gift img
+  {
+    width: unset;
+  }
+  #planimg
+  {
+    margin-left: 9%;
+  }
   /* finish planning area*/
   
   .join {
