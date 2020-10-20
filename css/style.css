@@ -769,11 +769,49 @@ margin: auto;
   font-size: 47px;
   float: left;
 }
-
+.footer-bar 
+{
+  width: 100%;
+  padding: 27px 0;
+}
 .footer-cont
 {
-  height: 336px;
+  height: 100%;
+  text-align: center;
 }
+.footer-cont li
+{
+  display: block;
+ 
+  font-size: 36px;
+  padding: 20px 20;
+  margin: 20px 0;
+}
+
+.ftlogo
+{
+  float: unset;
+    margin: 0 39%;
+  
+    height: 54px;
+}
+.logos-image
+{
+  width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
