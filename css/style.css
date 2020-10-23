@@ -974,7 +974,7 @@ margin: auto;
    
     border: 2px solid black;
     margin-top: 21%;
-    margin-left: 34%;
+    margin-left: 52%;
     font-family:  Klavika-Regular;
   }
   /* finish menu bar */
@@ -996,7 +996,7 @@ margin: auto;
     padding: unset;
   }
   .sector-option {
-    padding: 10px 5px;
+    padding: 9px 5px;
     width: 93%;
     font-size: 14px;
     border-radius: 6px;
@@ -1024,6 +1024,7 @@ margin: auto;
     margin-top: 3.9%;
   height: unset;
   width: unset;
+  float: right;
     margin-left: 1%;
   }
   .different {
