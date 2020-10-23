@@ -154,13 +154,13 @@
 }
 .search-area-content button
 {
-  padding: 8px 34px;
- 
+  padding: 10px 36px;
+  margin-top: 45px;
   float: right;
   background-color: orange;
   border: none;
   border-radius: 4px;
-  font-size: 20px;
+  font-size: 16px;
 }
 .different {
   width: 5%;
@@ -634,6 +634,14 @@ margin: auto;
   width: 41%;
   
 }
+.search-area-content button
+{
+  float: unset;
+  width: 100%;
+  font-size: 44px;
+  padding: 17px 0;
+
+}
 .middle-area p
 {
   top: 19%;
@@ -891,6 +899,7 @@ margin: auto;
   {
     padding: 7px 0;
     height: unset;
+    float: left;
   }
   .profile {
     float: right;
@@ -998,6 +1007,17 @@ margin: auto;
     width: 90%;
     margin: auto;
   }
+  .search-area-content button
+{
+  padding: 10px 36px;
+  margin-top: 45px;
+  float: right;
+  background-color: orange;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  width: unset;
+}
   .location {
     width: 27%;
     color: white;
