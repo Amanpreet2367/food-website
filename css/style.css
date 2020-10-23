@@ -354,7 +354,7 @@ margin: auto;
 
 .hotels {
   width: 18%;
-  position: relative;
+ 
   float: left;
   margin-left: 1%;
   border: 1px solid #d2d2d2;
@@ -730,10 +730,7 @@ margin: auto;
   margin:unset;
 }
 
-.shops
-{
-  top: 41%;
-}
+
 
 .shops p
 {
@@ -1260,7 +1257,7 @@ margin: auto;
   
   .hotels {
     width: 18%;
-    position: relative;
+  
     float: left;
     margin: 0 11px;
     border: 1px solid #d2d2d2;
