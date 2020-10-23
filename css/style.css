@@ -884,18 +884,18 @@ margin: auto;
   }
   .profile {
     float: right;
+    width: 23%;
+   
   }
   .acoount-img {
     background-color: #575757;
-    float: left;
-    padding: unset
+  
+    padding: unset;
+    margin-left: 20px;
   }
   
   .kart {
-    width: 30%;
-  
-   
-    margin-left: 7px;
+    margin-left: 20px;
   }
   .kart img
   {
