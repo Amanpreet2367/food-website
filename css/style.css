@@ -378,7 +378,9 @@ margin: auto;
   padding: 5px 0;
   opacity: 0.7;
   position: absolute;
-  top: 128px;
+  bottom: 0;
+  top: unset;
+
   width: 100%;
   letter-spacing: 0.5;
 }
@@ -406,7 +408,7 @@ margin: auto;
   margin-left: 1%;
   border: 1px solid #d2d2d2;
   border-radius: 3%;
-  position: relative;
+ 
 }
 .hotelss img {
  width:100%;
@@ -1282,9 +1284,12 @@ margin: auto;
     padding: 5px 0;
     opacity: 0.7;
     position: absolute;
-    top: 128px;
+  
     width: 100%;
     letter-spacing: 0.5;
+    bottom: 0;
+    top: unset;
+
   }
   .shops p {
     margin: 0;
@@ -1310,7 +1315,7 @@ margin: auto;
     margin: 0 11px;
     border: 1px solid #d2d2d2;
     border-radius: 3%;
-    position: relative;
+   
   }
   .hotelss img {
    width:100%;
