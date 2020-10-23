@@ -152,6 +152,16 @@
 
   margin-left: 1%;
 }
+.search-area-content button
+{
+  padding: 8px 34px;
+ 
+  float: right;
+  background-color: orange;
+  border: none;
+  border-radius: 4px;
+  font-size: 20px;
+}
 .different {
   width: 5%;
 
