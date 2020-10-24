@@ -236,10 +236,11 @@ margin: auto;
 .titles span {
   border-bottom: 3px solid orange;
 }
-.imagess img {
-  margin: 15px 0;
-  padding: 0 18px;
+.online-images
+{
+
 }
+
 /* finish ordering area */
 
 .dishes {
@@ -663,6 +664,10 @@ margin: auto;
 .order-items
 {
   height: 108%;
+}
+.online-images
+{
+  padding: 16px 0;
 }
 .imagess img
 {
@@ -1131,11 +1136,18 @@ margin: auto;
   .titles span {
     border-bottom: 3px solid orange;
   }
-  .imagess img {
-    margin: 15px 0;
-    padding: 0 18px;
-    width: unset;
+  .online-images
+  {
+    float: left;
+    margin: 10px 6px;
+    width: 24%;
+    padding: unset;
+
   }
+  .imagess img
+ {
+   width: 100%;
+ }
   /* finish ordering area */
   
   .dishes {
