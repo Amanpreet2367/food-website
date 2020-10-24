@@ -885,7 +885,7 @@ margin: auto;
 @media only screen and (min-width: 1020px)
 {
   .main-container {
-    height: 32px;
+    height: 33px;
     width: 100%;
   
     background-color: #363636;
@@ -1219,7 +1219,7 @@ margin: auto;
   }
   #planimg
   {
-    margin-left: 9%;
+  float:right;
   }
   /* finish planning area*/
   
