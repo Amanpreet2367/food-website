@@ -406,7 +406,7 @@ margin: auto;
 
 .subscribe {
   width: 100%;
-  height: 70px;
+  
   background-color: #ff9d01;
 }
 .subscribe-cont {
@@ -454,7 +454,7 @@ margin: auto;
 
 .footer {
   width: 100%;
-
+float: left;
   background-image: url("../images/footer-bg.png");
 }
 .footer-cont {
@@ -651,7 +651,7 @@ margin: auto;
 }
 .titles
 {
-  font-size: 60px;
+  font-size: 48px;
 }
 .titles span
 {
@@ -686,7 +686,8 @@ margin: auto;
 }
 .hotel-discription
 {
-  height: 391%;
+  height: auto;
+  float: left;
 }
 #easy
 {
@@ -724,11 +725,17 @@ margin: auto;
 {
   font-size: 52px;
 }
+.infohotel
+{
+  margin: auto;
+  width: 90%;
+
+}
 .hotels
 {
   width: 100%;
   height: unset;
-  margin:unset;
+  margin:20px 0;
 }
 
 
@@ -743,12 +750,16 @@ margin: auto;
 }
 #pairagraph
 {
-  font-size: 38px;
+  font-size: 14px;
+    font-weight: unset;
+    line-height: unset;
+    font-family: 'Klavika-Regular';
 }
 
 .subscribe
 {
-  height: 317px;
+  padding: 2rem 0;
+  float: left;
 }
 .paragraph
 {
