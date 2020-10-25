@@ -398,24 +398,7 @@ margin: auto;
   line-height: 2;
   font-family: 'Klavika-Light';
 }
-.hotelss {
-  width: 18%;
-  height: 320px;
-  float: left;
-  margin-left: 1%;
-  border: 1px solid #d2d2d2;
-  border-radius: 3%;
- 
-}
-.hotelss img {
- width:100%;
-}
-.hotelss p {
-  padding: 0 10px;
-  font-size: 14px;
-  font-weight: bold;
-  font-family: 'Klavika-Regular';
-}
+
 
 /*finish favourite area */
 
@@ -495,6 +478,7 @@ margin: auto;
 #about-footer
 {
     color: white;
+    padding: unset;
 }
 .footer-cont li {
   display: inline-block;
@@ -550,7 +534,7 @@ margin: auto;
 .photos:nth-of-type(2),.photos:nth-of-type(6),.photos:nth-of-type(10){
   margin-left: unset;
 }
-.photos:nth-of-type(4),.photos:nth-of-type(8),.photos:nth-of-type(12){
+.photos:nth-of-type(5),.photos:nth-of-type(9),.photos:nth-of-type(13){
   margin-right: unset;
 }
 
@@ -761,17 +745,7 @@ margin: auto;
 {
   font-size: 38px;
 }
-.hotelss
-{
-  width: 100%;
-  margin-top: 5%;
-  height: unset;
-  margin-left: unset;
-}
-.hotelss p
-{
-  font-size: 50px;
-}
+
 .subscribe
 {
   height: 317px;
@@ -1283,7 +1257,7 @@ margin: auto;
     width: 18%;
   
     float: left;
-    margin: 0 11px;
+    margin: 0 13.93px;
     border: 1px solid #d2d2d2;
     border-radius: 3%;
   }
@@ -1334,25 +1308,8 @@ margin: auto;
     line-height: 2;
     font-family: 'Klavika-Light';
   }
-  .hotelss {
-    width: 18%;
-    height: 320px;
-    float: left;
-    margin: 0 11px;
-    border: 1px solid #d2d2d2;
-    border-radius: 3%;
-   
-  }
-  .hotelss img {
-   width:100%;
-  }
-  .hotelss p {
-    padding: 0 10px;
-    font-size: 14px;
-    font-weight: bold;
-    font-family: 'Klavika-Regular';
-  }
-  
+
+ 
   /*finish favourite area */
   
   
@@ -1418,12 +1375,12 @@ margin: auto;
     margin: auto;
   }
   .footer-bar {
-    width: 88%;
+    width: 90%;
     float: left;
     padding: unset;
   }
   .logos-image {
-    width: 12%;
+    width: 10%;
     float: left;
   }
   .ftlogo {
@@ -1435,6 +1392,7 @@ margin: auto;
   #about-footer
   {
       color: white;
+      padding: unset;
   }
   .footer-cont li {
     display: inline-block;
@@ -1486,16 +1444,23 @@ margin: auto;
   }
 
 
-  .photos:nth-of-type(0),.photos:nth-of-type(4),.photos:nth-of-type(8){
-    margin-left: unset;
-  }
-  .photos:nth-of-type(4),.photos:nth-of-type(8),.photos:nth-of-type(12){
-    margin-right: unset;
-  }
+ 
+.photos:nth-of-type(2),.photos:nth-of-type(6),.photos:nth-of-type(10){
+  margin-left: unset;
+}
+.photos:nth-of-type(5),.photos:nth-of-type(9),.photos:nth-of-type(13){
+  margin-right: unset;
+}
+
+.hotels:nth-of-type(1){
+  margin-left: unset;
+}
   
 
-
-
+.hotels:nth-of-type(5){
+  margin-right: unset;
+}
+  
 
 
 
