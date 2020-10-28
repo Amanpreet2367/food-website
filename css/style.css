@@ -261,39 +261,40 @@ margin: auto;
 }
 
 .count {
-  height: 30px;
-  position: absolute;
-  background-color: black;
-  width: 100%;
-  bottom: 0;
-  opacity: 0.7;
-  border-bottom-left-radius: 6px;
-  border-bottom-right-radius: 6px;
+  height: 47px;
+    position: absolute;
+    background-color: black;
+  
+    top: 34%;
+    left: 43%;
+    border-radius: 50%;
+    opacity: 0.7;
 }
 .count p {
   color: white;
-    font-size: 15px;
-    margin: 4px 0;
-    font-weight: bold;
-    padding: 2px 10px;
-    font-family: 'Klavika-Light';
+  font-size: 16px;
+  margin: 4px 0;
+  font-weight: bold;
+  padding: 10px 10px;
+  font-family: 'Klavika-Light';
 }
 .dish-city {
-  height: 60px;
-  background-color: black;
-  width: 60px;
-
-  position: absolute;
-  top: 21%;
-  left: 39%;
-  opacity: 0.7;
-  border-radius: 50%;
+  height: 27px;
+    background-color: black;
+  
+    position: absolute;
+  
+    opacity: 0.7;
+   
+    bottom: 0;
+    width: 100%;
+ 
 }
 .dish-city P {
   color: WHITE;
-  font-size: 20px;
-  font-family: 'Klavika-Light';
-  text-align: CENTER;
+    font-size: 16px;
+    font-family: 'Klavika-Light';
+    text-align: CENTER;
 }
 /* finish photos area*/
 
@@ -349,7 +350,7 @@ margin: auto;
   font-weight: bold;
   padding: 20px;
   font-size: 35px;
- 
+  font-family: 'Klavika-Regular';
   margin: 10px 40%;
 
 }
@@ -659,8 +660,12 @@ float: left;
   float: unset;
   width: 100%;
   font-size: 44px;
-  padding: 17px 0;
+  padding: 10px 0;
 
+}
+.middle-container
+{
+  background-size: cover;
 }
 .middle-area p
 {
@@ -673,6 +678,7 @@ float: left;
 .titles
 {
   font-size: 48px;
+  padding: 59px 0;
 }
 .titles span
 {
@@ -1191,37 +1197,37 @@ float: left;
   }
   
   .count {
-    height: 30px;
+    height: 46px;
     position: absolute;
     background-color: black;
-    width: 100%;
-    bottom: 0;
+  
+    top: 28%;
+    left: 42%;
+    border-radius: 50%;
     opacity: 0.7;
-    border-bottom-left-radius: 6px;
-    border-bottom-right-radius: 6px;
   }
   .count p {
     color: white;
-      font-size: 15px;
-      margin: 4px 0;
-      font-weight: bold;
-      padding: 2px 10px;
-      font-family: 'Klavika-Light';
+    font-size: 16px;
+    margin: 4px 0;
+    font-weight: bold;
+    padding: 10px 10px;
+    font-family: 'Klavika-Light';
   }
   .dish-city {
-    height: 60px;
+    height: 27px;
     background-color: black;
-    width: 60px;
   
     position: absolute;
-    top: 21%;
-    left: 39%;
+  
     opacity: 0.7;
-    border-radius: 50%;
+   
+    bottom: 0;
+    width: 100%;
   }
   .dish-city P {
     color: WHITE;
-    font-size: 20px;
+    font-size: 16px;
     font-family: 'Klavika-Light';
     text-align: CENTER;
   }
@@ -1286,7 +1292,7 @@ float: left;
   font-weight: bold;
   padding: 20px;
   font-size: 35px;
- 
+  font-family: 'Klavika-Regular';
   margin: 10px 40%;
 
 }
@@ -1294,6 +1300,7 @@ float: left;
 {
   color: black;
   font-size: 14px;
+  font-family: 'Klavika-Regular';
 }
   /* finish joinning area */
   
