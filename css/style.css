@@ -340,6 +340,24 @@ margin: auto;
   line-height: 2;
 
 }
+.join-btn
+{
+  background-color: #ff9d01;
+  width: 16%;
+  border-radius: 8px;
+  color: white;
+  font-weight: bold;
+  padding: 20px;
+  font-size: 35px;
+ 
+  margin: 10px 40%;
+
+}
+.join-btn span
+{
+  color: black;
+  font-size: 14px;
+}
 /* finish joinning area */
 
 .hotel-discription {
@@ -1259,6 +1277,24 @@ float: left;
     line-height: 2;
   
   }
+  .join-btn
+{
+  background-color: #ff9d01;
+  width: 16%;
+  border-radius: 8px;
+  color: white;
+  font-weight: bold;
+  padding: 20px;
+  font-size: 35px;
+ 
+  margin: 10px 40%;
+
+}
+.join-btn span
+{
+  color: black;
+  font-size: 14px;
+}
   /* finish joinning area */
   
   .hotel-discription {
