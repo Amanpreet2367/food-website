@@ -726,31 +726,41 @@ float: left;
   width: 100%;
   margin-left: unset;
 }
-
+.photoss{
+  float: left;
+}
 .photos img
 {
   width: 100%;
 }
 .count
 {
-  height: 86px;
+  height: 140px;
+  width: 140px;
+
 }
 .count p
 {
-  padding: 8px 19px;
-   
-    font-size: 53px;
+  padding: 41px 0px;
+  font-size: 43px;
+  
+  text-align: center;
 
 }
 .dish-city
 {
-  height: 161px;
-    width: 161px;
+  height: 83px;
+    
 }
 
 .dish-city P
 {
-  font-size: 52px;
+  font-size: 50px;
+
+    margin: 0;
+    padding: 12px 16px;
+    text-align: unset;
+
 }
 .infohotel
 {
@@ -1198,6 +1208,7 @@ float: left;
   
   .count {
     height: 46px;
+    width: 46px;
     position: absolute;
     background-color: black;
   
@@ -1209,13 +1220,13 @@ float: left;
   .count p {
     color: white;
     font-size: 16px;
-    margin: 4px 0;
+  
     font-weight: bold;
-    padding: 10px 10px;
+    padding: 10px;
     font-family: 'Klavika-Light';
   }
   .dish-city {
-    height: 27px;
+    height: 29px;
     background-color: black;
   
     position: absolute;
@@ -1229,7 +1240,9 @@ float: left;
     color: WHITE;
     font-size: 16px;
     font-family: 'Klavika-Light';
-    text-align: CENTER;
+   
+    margin: 0;
+    padding: 5px 6px;
   }
   /* finish photos area*/
   
