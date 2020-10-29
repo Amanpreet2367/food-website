@@ -805,7 +805,9 @@ float: left;
 
 .paragraph p
 {
-  font-size: 57px;
+  font-size: 50px;
+  padding: 20px 0;
+  margin: 0;
 }
 
 .buttons
@@ -815,15 +817,18 @@ float: left;
 }
 .buttons button
 {
-  padding: 9px 12px;
-  font-size: 45px;
+  padding: 14px 12px;
+  font-size: 35px;
   width: 27%;
+  border-radius: 6px;
+
 }
 .mail-address
 {
   width: 70%;
-  font-size: 47px;
+  font-size: 36px;
   float: left;
+  border-radius: 6px;
 }
 .footer-bar 
 {
