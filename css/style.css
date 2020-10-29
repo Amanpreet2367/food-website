@@ -344,14 +344,14 @@ margin: auto;
 .join-btn
 {
   background-color: #ff9d01;
-  width: 16%;
+  width: 20%;
   border-radius: 8px;
   color: white;
   font-weight: bold;
   padding: 20px;
   font-size: 35px;
   font-family: 'Klavika-Regular';
-  margin: 10px 40%;
+  margin: 10px 36%;
 
 }
 .join-btn span
@@ -399,7 +399,8 @@ margin: auto;
   position: absolute;
   bottom: 0;
   top: unset;
-
+  border-bottom-left-radius: 13px;
+  border-bottom-right-radius: 13px;
   width: 100%;
   letter-spacing: 0.5;
 }
@@ -706,6 +707,9 @@ float: left;
 .join
 {
   height: unset;
+  float: left;
+  width: 100%;
+
 }
 .join-container p
 {
@@ -852,9 +856,9 @@ float: left;
 .ftlogo
 {
   float: unset;
-    margin: 0 39%;
   
     height: 54px;
+    padding: 14px 0;
 }
 .logos-image
 {
@@ -870,11 +874,12 @@ float: left;
 }
 .footer-paira p
 {
-  font-size: 26px;
+  font-size: 16px;
+  text-align: justify;
 }
 #made-by
 {
-  font-size: 15px;
+  font-size: 14px;
   line-height: unset;
 }
 
