@@ -344,12 +344,12 @@ margin: auto;
 .join-btn
 {
   background-color: #ff9d01;
-  width: 20%;
+  width: 29%;
   border-radius: 8px;
   color: white;
   font-weight: bold;
   padding: 20px;
-  font-size: 35px;
+  font-size: 57px;
   font-family: 'Klavika-Regular';
   margin: 10px 36%;
 
@@ -357,7 +357,7 @@ margin: auto;
 .join-btn span
 {
   color: black;
-  font-size: 14px;
+  font-size: 26px;
 }
 /* finish joinning area */
 
@@ -713,7 +713,7 @@ float: left;
 }
 .join-container p
 {
-  font-size: 50px;
+  font-size: 32px;
 }
 .hotel-discription
 {
@@ -722,7 +722,7 @@ float: left;
 }
 #easy
 {
-  font-size: 38px;
+  font-size: 16px;
 }
 
 .photos
@@ -799,19 +799,21 @@ float: left;
 
 .subscribe
 {
-  padding: 2rem 0;
+  padding: 3rem 0;
   float: left;
 }
 .paragraph
 {
   width: 100%;
+  padding: 15px 0;
 }
 
 .paragraph p
 {
   font-size: 50px;
-  padding: 20px 0;
+  
   margin: 0;
+  text-align: center;
 }
 
 .buttons
@@ -821,8 +823,8 @@ float: left;
 }
 .buttons button
 {
-  padding: 14px 12px;
-  font-size: 35px;
+
+  font-size: 36px;
   width: 27%;
   border-radius: 6px;
 
@@ -831,7 +833,7 @@ float: left;
 {
   width: 70%;
   font-size: 36px;
-  float: left;
+  
   border-radius: 6px;
 }
 .footer-bar 
@@ -1413,6 +1415,7 @@ float: left;
   }
   .paragraph p {
     font-size: 22px;
+    text-align: unset;
     color: white;
     font-family: 'Klavika-Light';
   }
@@ -1421,7 +1424,7 @@ float: left;
     float: right;
   
     text-align: right;
-    margin-top: 16px;
+    margin-top: 31px;
   }
   .mail-address {
     padding: 8px 1rem;
