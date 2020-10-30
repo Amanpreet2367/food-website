@@ -779,7 +779,10 @@ float: left;
   margin:20px 0;
 }
 
-
+.dhaba-name
+  {
+    padding: 0 8px;
+  }
 
 .shops p
 {
@@ -787,11 +790,12 @@ float: left;
 }
 .hotels p
 {
-  font-size: 51px;
+  font-size: 47px;
+  padding: 0px 14px;
 }
 #pairagraph
 {
-  font-size: 14px;
+  font-size: 31px;
     font-weight: unset;
     line-height: unset;
     font-family: 'Klavika-Regular';
@@ -1385,6 +1389,7 @@ float: left;
     letter-spacing: 0px;
     font-size: 13px;
   }
+  
   #pairagraph {
     padding: 0 10px;
     text-align: left;
